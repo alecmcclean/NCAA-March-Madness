@@ -1,2 +1,2 @@
 # NCAA-March-Madness
-Analysis for 2018 March Madness ML project
+This repo contains code and analysis for 2018 March Madness ML project
